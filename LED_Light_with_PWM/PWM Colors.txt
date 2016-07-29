@@ -1,0 +1,21 @@
+PINS 
+Light Ring = 6
+PWM = 3
+
+x is the pwm value
+10<x>20 = Red
+20<x>30 = Green
+30<x>40 = Blue
+40<x>50 = Orange
+50<x>60 = Yellow
+60<x>70 = Indigo
+70<x>80 = Violet
+80<x>90 = Team Color
+90<x>100 = Cyan
+100<x>110 = Brown
+110<x>120 = Black
+120<x>130 = Grey
+130<x>140 = Pink
+140<x>150 = White
+150<x>160 = Yellow Green
+160<x>170 = Darker Pink
